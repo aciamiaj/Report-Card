@@ -34,4 +34,4 @@ License
 The Report Card Application is not subject to any license as it is a code snippet provided for reference and educational purposes.
 
 Author
-This code snippet is provided as an example by Jaimaica. Feel free to reach out if you have any questions or inquiries related to this code.
+This code snippet is provided as an example by Jaimaica Daisy Eugenio. Feel free to reach out if you have any questions or inquiries related to this code.
